@@ -10,7 +10,7 @@ public class AA {
 public static void main(String[] args) throws IOException {
 int i, n;
 
-FileWriter arq = new FileWriter("h:\\TrabProdut.txt");
+FileWriter arq = new FileWriter("h:\\TrabProd.txt");
 PrintWriter gravarArq = new PrintWriter(arq);
 
 for (i=1; i<=10; i++) {
